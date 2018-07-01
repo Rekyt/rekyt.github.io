@@ -5,8 +5,44 @@
     
     <url>
     
+      <loc>/publication/</loc>
+      <lastmod>2018-07-01T13:06:23+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/privacy/</loc>
       <lastmod>2018-06-28T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/europe_orchids/</loc>
+      <lastmod>2018-05-29T00:00:00+02:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/response_carmona/</loc>
+      <lastmod>2017-12-26T13:06:56+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/funrar/</loc>
+      <lastmod>2017-12-26T12:11:41+01:00</lastmod>
     </url>
     
   
@@ -86,15 +122,6 @@
     
     <url>
     
-      <loc>/publication/person-re-identification/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
@@ -104,27 +131,8 @@
     
     <url>
     
-      <loc>/publication/clothing-search/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication_types/1/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/publication_types/2/</loc>
-      <lastmod>2015-09-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-05-29T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -154,6 +162,16 @@
     
       <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/functional-rarity/</loc>
+      <lastmod>2017-12-26T13:06:56+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -193,7 +211,7 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2013-07-01T00:00:00+02:00</lastmod>
+      <lastmod>2018-05-29T00:00:00+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -235,6 +253,14 @@
       <loc>/tags/</loc>
       <lastmod>2017-01-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/ecolottery/</loc>
     </url>
     
   
