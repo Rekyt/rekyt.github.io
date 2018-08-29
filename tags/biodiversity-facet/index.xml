@@ -1,24 +1,28 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Biodiversity-facet on Matthias Grenié – Computational Ecologist</title>
-    <link>/tags/biodiversity-facet/</link>
-    <description>Recent content in Biodiversity-facet on Matthias Grenié – Computational Ecologist</description>
+    <title>Biodiversity facet on Matthias Grenié – Computational Ecologist</title>
+    <link>https://rekyt.github.io/tags/biodiversity-facet/</link>
+    <description>Recent content in Biodiversity facet on Matthias Grenié – Computational Ecologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
-    <lastBuildDate>Sun, 01 Jul 2018 17:30:39 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 29 Aug 2018 18:14:56 +0200</lastBuildDate>
     
-	<atom:link href="/tags/biodiversity-facet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rekyt.github.io/tags/biodiversity-facet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Functional Rarity: a new concept</title>
-      <link>/project/functional-rarity/</link>
-      <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
+      <title>Functional rarity of coral reef fishes at the global scale: Hotspots and challenges for conservation</title>
+      <link>https://rekyt.github.io/publication/gaspar/</link>
+      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>/project/functional-rarity/</guid>
-      <description>Functional rarity is a concept developed by Violle et al. (2017). One aim of my PhD is to develop and test this concept. Through the Functional Rarity in Ecology and Evolution synthesis group funded by the CESAB, we discuss and test new ideas regarding functional rarity.</description>
+      <guid>https://rekyt.github.io/publication/gaspar/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>t this concept. Through the Functional Rarity in Ecology and Evolution synthesis group funded by the CESAB, we discuss and test new ideas regarding functional rarity.</description>
     </item>
     
   </channel>
