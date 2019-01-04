@@ -2,58 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Matthias Grenié – Computational Ecologist</title>
-    <link>https://rekyt.github.io/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Matthias Grenié – Computational Ecologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
-    <lastBuildDate>Wed, 29 Aug 2018 18:14:56 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 22 Dec 2018 20:52:07 +0100</lastBuildDate>
     
-	<atom:link href="https://rekyt.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Functional biogeography of dietary strategies in birds</title>
+      <link>/publication/bird_diet/</link>
+      <pubDate>Sat, 22 Dec 2018 20:52:07 +0100</pubDate>
+      
+      <guid>/publication/bird_diet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Functional rarity of coral reef fishes at the global scale: Hotspots and challenges for conservation</title>
-      <link>https://rekyt.github.io/publication/gaspar/</link>
+      <link>/publication/gaspar/</link>
       <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/publication/gaspar/</guid>
+      <guid>/publication/gaspar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of pollination strategy, phylogeny and distribution on pollination niches of Euro‐Mediterranean orchids</title>
-      <link>https://rekyt.github.io/publication/europe_orchids/</link>
+      <link>/publication/europe_orchids/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/publication/europe_orchids/</guid>
+      <guid>/publication/europe_orchids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al.</title>
-      <link>https://rekyt.github.io/publication/response_carmona/</link>
+      <link>/publication/response_carmona/</link>
       <pubDate>Tue, 26 Dec 2017 13:06:56 +0100</pubDate>
       
-      <guid>https://rekyt.github.io/publication/response_carmona/</guid>
+      <guid>/publication/response_carmona/</guid>
       <description></description>
     </item>
     
     <item>
       <title>funrar: An R package to characterize functional rarity</title>
-      <link>https://rekyt.github.io/publication/funrar/</link>
+      <link>/publication/funrar/</link>
       <pubDate>Tue, 26 Dec 2017 12:11:41 +0100</pubDate>
       
-      <guid>https://rekyt.github.io/publication/funrar/</guid>
+      <guid>/publication/funrar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ecolottery: Simulating and assessing community assembly with environmental filtering and neutral dynamics in R</title>
-      <link>https://rekyt.github.io/publication/ecolottery/</link>
+      <link>/publication/ecolottery/</link>
       <pubDate>Tue, 17 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/publication/ecolottery/</guid>
+      <guid>/publication/ecolottery/</guid>
       <description></description>
     </item>
     

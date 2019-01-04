@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>biodiversity-facet on Matthias Grenié – Computational Ecologist</title>
-    <link>https://rekyt.github.io/tags/biodiversity-facet/</link>
+    <link>/tags/biodiversity-facet/</link>
     <description>Recent content in biodiversity-facet on Matthias Grenié – Computational Ecologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
     <lastBuildDate>Sun, 01 Jul 2018 17:30:39 +0200</lastBuildDate>
     
-	<atom:link href="https://rekyt.github.io/tags/biodiversity-facet/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/biodiversity-facet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Functional Rarity: a new concept</title>
-      <link>https://rekyt.github.io/project/functional-rarity/</link>
+      <title>Functional Rarity: an additional biodiversity facet</title>
+      <link>/project/functional-rarity/</link>
       <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/project/functional-rarity/</guid>
+      <guid>/project/functional-rarity/</guid>
       <description>Functional rarity is a concept developed by Violle et al. (2017). One aim of my PhD is to develop and test this concept. Through the Functional Rarity in Ecology and Evolution synthesis group funded by the CESAB, we discuss and test new ideas regarding functional rarity.</description>
     </item>
     
