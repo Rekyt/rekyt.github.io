@@ -55,7 +55,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>/home/packages/</guid>
-      <description>   package name package status description     ecolottery  an R package to simulate community using coalescent theory   funrar  Compute functional rarity indices (see more at https://rekyt.github.io/funrar/)   rromeo  &amp;nbsp;  R client to R package to SHERPA/RoMEO (see more at https://ropensci.github.io/rromeo/)   rtaxref  R client to the French Taxonomic Reference (see more at https://rekyt.github.io/rtaxref)    </description>
+      <description>package name package status description     ecolottery  an R package to simulate community assembly using coalescent theory   funrar  Compute functional rarity indices (see more at https://rekyt.github.io/funrar/)   rromeo  &amp;nbsp;  R client to SHERPA/RoMEO the database on journal archival policies (see more at https://ropensci.github.io/rromeo/)   rtaxref  R client to the French Taxonomic Reference (see more at https://rekyt.</description>
     </item>
     
     <item>
