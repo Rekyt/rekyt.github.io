@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Species Richness on Matthias Grenié – Computational Ecologist</title>
+    <link>/tags/species-richness/</link>
+    <description>Recent content in Species Richness on Matthias Grenié – Computational Ecologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC-BY 3.0, 2018</copyright>
+    <lastBuildDate>Wed, 01 Apr 2020 18:14:56 +0200</lastBuildDate>
+    
+	<atom:link href="/tags/species-richness/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Is prediction of species richness from stacked species distribution models biased by habitat saturation?</title>
+      <link>/publication/richness_saturation/</link>
+      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
+      
+      <guid>/publication/richness_saturation/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

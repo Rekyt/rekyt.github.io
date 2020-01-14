@@ -2,95 +2,95 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Matthias Grenié – Computational Ecologist</title>
-    <link>https://rekyt.github.io/home/</link>
+    <link>/home/</link>
     <description>Recent content in Homes on Matthias Grenié – Computational Ecologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
     
-	<atom:link href="https://rekyt.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>https://rekyt.github.io/home/hero/</link>
+      <link>/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/hero/</guid>
+      <guid>/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title></title>
-      <link>https://rekyt.github.io/home/about/</link>
+      <link>/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/about/</guid>
+      <guid>/home/about/</guid>
       <description>Currently PhD Candidate at the University of Montpellier. Interested in Biogeography, Open Science and Reproduciblity.</description>
     </item>
     
     <item>
       <title>Selected Publications</title>
-      <link>https://rekyt.github.io/home/publications_selected/</link>
+      <link>/home/publications_selected/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/publications_selected/</guid>
+      <guid>/home/publications_selected/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Publications</title>
-      <link>https://rekyt.github.io/home/publications/</link>
+      <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/publications/</guid>
+      <guid>/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R Packages</title>
-      <link>https://rekyt.github.io/home/packages/</link>
+      <link>/home/packages/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/packages/</guid>
+      <guid>/home/packages/</guid>
       <description>package name package status description     ecolottery  an R package to simulate community assembly using coalescent theory   funrar  Compute functional rarity indices (see more at https://rekyt.github.io/funrar/)   rromeo  &amp;nbsp;  R client to SHERPA/RoMEO the database on journal archival policies (see more at https://ropensci.github.io/rromeo/)   rtaxref  R client to the French Taxonomic Reference (see more at https://rekyt.</description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>https://rekyt.github.io/home/talks/</link>
+      <link>/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/talks/</guid>
+      <guid>/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>https://rekyt.github.io/home/posts/</link>
+      <link>/home/posts/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/posts/</guid>
+      <guid>/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>https://rekyt.github.io/home/projects/</link>
+      <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/projects/</guid>
+      <guid>/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>https://rekyt.github.io/home/teaching/</link>
+      <link>/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/teaching/</guid>
+      <guid>/home/teaching/</guid>
       <description>I am a certified Instructor for The Carpentries, focusing on R programming (especially for ecology) and Data Visualization.
 I also taught the following courses at the University of Montpellier:
  HLMA314 Practicals in Descriptive Statistics for Ecology 2017-2018, HLBE405 Practical project in Functional Ecology, HLMA314 Practicals in Descriptive Statistics for Ecology 2018-2019.  I also found the R User Group of our lab and organize regular meetups for the group.</description>
@@ -98,19 +98,19 @@ I also taught the following courses at the University of Montpellier:
     
     <item>
       <title>Tags</title>
-      <link>https://rekyt.github.io/home/tags/</link>
+      <link>/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/tags/</guid>
+      <guid>/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://rekyt.github.io/home/contact/</link>
+      <link>/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/home/contact/</guid>
+      <guid>/home/contact/</guid>
       <description></description>
     </item>
     
