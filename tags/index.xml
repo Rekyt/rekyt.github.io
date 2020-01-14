@@ -2,130 +2,130 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Matthias Grenié – Computational Ecologist</title>
-    <link>https://rekyt.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Matthias Grenié – Computational Ecologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="https://rekyt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://rekyt.github.io/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://rekyt.github.io/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
       <title>R Markdown</title>
-      <link>https://rekyt.github.io/tags/r-markdown/</link>
+      <link>/tags/r-markdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://rekyt.github.io/tags/r-markdown/</guid>
+      <guid>/tags/r-markdown/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biodiversity facet</title>
-      <link>https://rekyt.github.io/tags/biodiversity-facet/</link>
+      <link>/tags/biodiversity-facet/</link>
       <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/biodiversity-facet/</guid>
+      <guid>/tags/biodiversity-facet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>biodiversity-facet</title>
-      <link>https://rekyt.github.io/tags/biodiversity-facet/</link>
+      <link>/tags/biodiversity-facet/</link>
       <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/biodiversity-facet/</guid>
+      <guid>/tags/biodiversity-facet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>coral triangle</title>
-      <link>https://rekyt.github.io/tags/coral-triangle/</link>
+      <link>/tags/coral-triangle/</link>
       <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/coral-triangle/</guid>
+      <guid>/tags/coral-triangle/</guid>
       <description></description>
     </item>
     
     <item>
       <title>evolutionary distinctiveness</title>
-      <link>https://rekyt.github.io/tags/evolutionary-distinctiveness/</link>
+      <link>/tags/evolutionary-distinctiveness/</link>
       <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/evolutionary-distinctiveness/</guid>
+      <guid>/tags/evolutionary-distinctiveness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>functional distinctiveness</title>
-      <link>https://rekyt.github.io/tags/functional-distinctiveness/</link>
+      <link>/tags/functional-distinctiveness/</link>
       <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/functional-distinctiveness/</guid>
+      <guid>/tags/functional-distinctiveness/</guid>
       <description></description>
     </item>
     
     <item>
       <title>functional rarity</title>
-      <link>https://rekyt.github.io/tags/functional-rarity/</link>
+      <link>/tags/functional-rarity/</link>
       <pubDate>Tue, 26 Dec 2017 13:06:56 +0100</pubDate>
       
-      <guid>https://rekyt.github.io/tags/functional-rarity/</guid>
+      <guid>/tags/functional-rarity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>functional-diversity</title>
-      <link>https://rekyt.github.io/tags/functional-diversity/</link>
+      <link>/tags/functional-diversity/</link>
       <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/functional-diversity/</guid>
+      <guid>/tags/functional-diversity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>funrar</title>
-      <link>https://rekyt.github.io/tags/funrar/</link>
+      <link>/tags/funrar/</link>
       <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/funrar/</guid>
+      <guid>/tags/funrar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>plot</title>
-      <link>https://rekyt.github.io/tags/plot/</link>
+      <link>/tags/plot/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://rekyt.github.io/tags/plot/</guid>
+      <guid>/tags/plot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>rarity</title>
-      <link>https://rekyt.github.io/tags/rarity/</link>
+      <link>/tags/rarity/</link>
       <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/rarity/</guid>
+      <guid>/tags/rarity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>regression</title>
-      <link>https://rekyt.github.io/tags/regression/</link>
+      <link>/tags/regression/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>https://rekyt.github.io/tags/regression/</guid>
+      <guid>/tags/regression/</guid>
       <description></description>
     </item>
     
