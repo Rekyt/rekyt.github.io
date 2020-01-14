@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthias Grenié – Computational Ecologist on Matthias Grenié – Computational Ecologist</title>
-    <link>/</link>
+    <link>https://rekyt.github.io/</link>
     <description>Recent content in Matthias Grenié – Computational Ecologist on Matthias Grenié – Computational Ecologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,37 +12,37 @@
     
     <item>
       <title>Functional biogeography of dietary strategies in birds</title>
-      <link>/publication/bird_diet/</link>
+      <link>https://rekyt.github.io/publication/bird_diet/</link>
       <pubDate>Sat, 22 Dec 2018 20:52:07 +0100</pubDate>
       
-      <guid>/publication/bird_diet/</guid>
+      <guid>https://rekyt.github.io/publication/bird_diet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional rarity of coral reef fishes at the global scale: Hotspots and challenges for conservation</title>
-      <link>/publication/gaspar/</link>
+      <link>https://rekyt.github.io/publication/gaspar/</link>
       <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>/publication/gaspar/</guid>
+      <guid>https://rekyt.github.io/publication/gaspar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Predicting Species Richness with Unicorns &amp; SDMs or why thresholds should be abandoned?</title>
-      <link>/talk/species-richness-unicorns-bes-macro-2018/</link>
+      <link>https://rekyt.github.io/talk/species-richness-unicorns-bes-macro-2018/</link>
       <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/talk/species-richness-unicorns-bes-macro-2018/</guid>
+      <guid>https://rekyt.github.io/talk/species-richness-unicorns-bes-macro-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional Rarity: an additional biodiversity facet</title>
-      <link>/project/functional-rarity/</link>
+      <link>https://rekyt.github.io/project/functional-rarity/</link>
       <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
       
-      <guid>/project/functional-rarity/</guid>
+      <guid>https://rekyt.github.io/project/functional-rarity/</guid>
       <description>&lt;p&gt;Functional rarity is a concept developed by Violle et al. (2017). One aim of my PhD is to develop and test this concept.
 Through the &lt;a href=&#34;http://www.cesab.org/index.php/en/projets-en-cours/projets-2015&#34; target=&#34;_blank&#34;&gt;Functional Rarity in Ecology and Evolution&lt;/a&gt; synthesis group funded by the CESAB, we discuss and test new ideas regarding functional rarity.&lt;/p&gt;
 </description>
@@ -50,65 +50,65 @@ Through the &lt;a href=&#34;http://www.cesab.org/index.php/en/projets-en-cours/p
     
     <item>
       <title>Privacy Policy</title>
-      <link>/privacy/</link>
+      <link>https://rekyt.github.io/privacy/</link>
       <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
       
-      <guid>/privacy/</guid>
+      <guid>https://rekyt.github.io/privacy/</guid>
       <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Effect of pollination strategy, phylogeny and distribution on pollination niches of Euro‐Mediterranean orchids</title>
-      <link>/publication/europe_orchids/</link>
+      <link>https://rekyt.github.io/publication/europe_orchids/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/europe_orchids/</guid>
+      <guid>https://rekyt.github.io/publication/europe_orchids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al.</title>
-      <link>/publication/response_carmona/</link>
+      <link>https://rekyt.github.io/publication/response_carmona/</link>
       <pubDate>Tue, 26 Dec 2017 13:06:56 +0100</pubDate>
       
-      <guid>/publication/response_carmona/</guid>
+      <guid>https://rekyt.github.io/publication/response_carmona/</guid>
       <description></description>
     </item>
     
     <item>
       <title>funrar: An R package to characterize functional rarity</title>
-      <link>/publication/funrar/</link>
+      <link>https://rekyt.github.io/publication/funrar/</link>
       <pubDate>Tue, 26 Dec 2017 12:11:41 +0100</pubDate>
       
-      <guid>/publication/funrar/</guid>
+      <guid>https://rekyt.github.io/publication/funrar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ecolottery: Simulating and assessing community assembly with environmental filtering and neutral dynamics in R</title>
-      <link>/publication/ecolottery/</link>
+      <link>https://rekyt.github.io/publication/ecolottery/</link>
       <pubDate>Tue, 17 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>/publication/ecolottery/</guid>
+      <guid>https://rekyt.github.io/publication/ecolottery/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional Rarity of Coral Reef Fishes Across Space</title>
-      <link>/talk/functional-rarity-ynhm-2017/</link>
+      <link>https://rekyt.github.io/talk/functional-rarity-ynhm-2017/</link>
       <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
       
-      <guid>/talk/functional-rarity-ynhm-2017/</guid>
+      <guid>https://rekyt.github.io/talk/functional-rarity-ynhm-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/post/getting-started/</link>
+      <link>https://rekyt.github.io/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
-      <guid>/post/getting-started/</guid>
+      <guid>https://rekyt.github.io/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -246,10 +246,10 @@ git submodule update --init --recursive
     
     <item>
       <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
+      <link>https://rekyt.github.io/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>https://rekyt.github.io/post/2015-07-23-r-rmarkdown/</guid>
       <description>
 
 
@@ -286,7 +286,7 @@ pie(
   init.angle = -50, border = NA
 )&lt;/code&gt;&lt;/pre&gt;
 &lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
+&lt;img src=&#34;https://rekyt.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
 &lt;p class=&#34;caption&#34;&gt;
 Figure 1: A fancy pie chart.
 &lt;/p&gt;
