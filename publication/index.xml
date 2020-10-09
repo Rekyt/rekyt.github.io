@@ -2,67 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Publications on Matthias Grenié – Computational Ecologist</title>
-    <link>/publication/</link>
+    <link>https://rekyt.github.io/publication/</link>
     <description>Recent content in Publications on Matthias Grenié – Computational Ecologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://rekyt.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Is prediction of species richness from stacked species distribution models biased by habitat saturation?</title>
+      <link>https://rekyt.github.io/publication/saturation/</link>
+      <pubDate>Wed, 01 Apr 2020 12:00:00 +0100</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/saturation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Functional biogeography of dietary strategies in birds</title>
-      <link>/publication/bird_diet/</link>
+      <link>https://rekyt.github.io/publication/bird_diet/</link>
       <pubDate>Sat, 22 Dec 2018 20:52:07 +0100</pubDate>
       
-      <guid>/publication/bird_diet/</guid>
+      <guid>https://rekyt.github.io/publication/bird_diet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Functional rarity of coral reef fishes at the global scale: Hotspots and challenges for conservation</title>
-      <link>/publication/gaspar/</link>
+      <link>https://rekyt.github.io/publication/gaspar/</link>
       <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>/publication/gaspar/</guid>
+      <guid>https://rekyt.github.io/publication/gaspar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Effect of pollination strategy, phylogeny and distribution on pollination niches of Euro‐Mediterranean orchids</title>
-      <link>/publication/europe_orchids/</link>
+      <link>https://rekyt.github.io/publication/europe_orchids/</link>
       <pubDate>Tue, 29 May 2018 00:00:00 +0200</pubDate>
       
-      <guid>/publication/europe_orchids/</guid>
+      <guid>https://rekyt.github.io/publication/europe_orchids/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al.</title>
-      <link>/publication/response_carmona/</link>
+      <link>https://rekyt.github.io/publication/global_mammals_birds/</link>
       <pubDate>Tue, 26 Dec 2017 13:06:56 +0100</pubDate>
       
-      <guid>/publication/response_carmona/</guid>
+      <guid>https://rekyt.github.io/publication/global_mammals_birds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al.</title>
+      <link>https://rekyt.github.io/publication/response_carmona/</link>
+      <pubDate>Tue, 26 Dec 2017 13:06:56 +0100</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/response_carmona/</guid>
       <description></description>
     </item>
     
     <item>
       <title>funrar: An R package to characterize functional rarity</title>
-      <link>/publication/funrar/</link>
+      <link>https://rekyt.github.io/publication/funrar/</link>
       <pubDate>Tue, 26 Dec 2017 12:11:41 +0100</pubDate>
       
-      <guid>/publication/funrar/</guid>
+      <guid>https://rekyt.github.io/publication/funrar/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ecolottery: Simulating and assessing community assembly with environmental filtering and neutral dynamics in R</title>
-      <link>/publication/ecolottery/</link>
+      <link>https://rekyt.github.io/publication/ecolottery/</link>
       <pubDate>Tue, 17 Oct 2017 00:00:00 +0200</pubDate>
       
-      <guid>/publication/ecolottery/</guid>
+      <guid>https://rekyt.github.io/publication/ecolottery/</guid>
       <description></description>
     </item>
     
