@@ -11,20 +11,20 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Is prediction of species richness from stacked species distribution models biased by habitat saturation?</title>
-      <link>https://rekyt.github.io/publication/richness_saturation/</link>
-      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
+      <title>A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al.</title>
+      <link>https://rekyt.github.io/publication/global_mammals_birds/</link>
+      <pubDate>Thu, 08 Oct 2020 13:06:56 +0100</pubDate>
       
-      <guid>https://rekyt.github.io/publication/richness_saturation/</guid>
+      <guid>https://rekyt.github.io/publication/global_mammals_birds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is prediction of species richness from stacked species distribution models biased by habitat saturation?</title>
-      <link>https://rekyt.github.io/publication/saturation/</link>
-      <pubDate>Wed, 01 Apr 2020 12:00:00 +0100</pubDate>
+      <link>https://rekyt.github.io/publication/richness_saturation/</link>
+      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/publication/saturation/</guid>
+      <guid>https://rekyt.github.io/publication/richness_saturation/</guid>
       <description></description>
     </item>
     
@@ -82,15 +82,6 @@ Through the &lt;a href=&#34;http://www.cesab.org/index.php/en/projets-en-cours/p
       <pubDate>Tue, 29 May 2018 00:00:00 +0200</pubDate>
       
       <guid>https://rekyt.github.io/publication/europe_orchids/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al.</title>
-      <link>https://rekyt.github.io/publication/global_mammals_birds/</link>
-      <pubDate>Tue, 26 Dec 2017 13:06:56 +0100</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/global_mammals_birds/</guid>
       <description></description>
     </item>
     
