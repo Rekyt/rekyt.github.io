@@ -4,6 +4,14 @@
     
     <url>
     
+      <loc>https://rekyt.github.io/publication/trait-spaces-dimensionality/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rekyt.github.io/publication/global_mammals_birds/</loc>
       <lastmod>2020-10-08T13:06:56+01:00</lastmod>
     </url>
@@ -149,7 +157,7 @@
     <url>
     
       <loc>https://rekyt.github.io/publication_types/2/</loc>
-      <lastmod>2020-10-08T13:06:56+01:00</lastmod>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -193,7 +201,7 @@
     <url>
     
       <loc>https://rekyt.github.io/publication_types/</loc>
-      <lastmod>2020-10-08T13:06:56+01:00</lastmod>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -273,6 +281,15 @@
     
     <url>
     
+      <loc>https://rekyt.github.io/tags/complexity/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rekyt.github.io/tags/coral-triangle/</loc>
       <lastmod>2018-08-29T18:14:56+02:00</lastmod>
       <priority>0</priority>
@@ -293,6 +310,15 @@
     
       <loc>https://rekyt.github.io/tags/functional-distinctiveness/</loc>
       <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/functional-ecology/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -336,6 +362,15 @@
     
     <url>
     
+      <loc>https://rekyt.github.io/tags/hypervolume/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rekyt.github.io/tags/plot/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
       <priority>0</priority>
@@ -356,6 +391,24 @@
     
       <loc>https://rekyt.github.io/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/species-clustering/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/species-uniqueness/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
       <priority>0</priority>
     </url>
     
