@@ -1,11 +1,90 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/publication_types/2/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/complexity/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/functional-ecology/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/hypervolume/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/publication_types/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/species-clustering/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/species-uniqueness/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/</loc>
+      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
   
     
     <url>
     
       <loc>https://rekyt.github.io/publication/trait-spaces-dimensionality/</loc>
       <lastmod>2021-05-21T11:36:21+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/functional-rarity/</loc>
+      <lastmod>2020-10-08T13:06:56+01:00</lastmod>
     </url>
     
   
@@ -20,7 +99,47 @@
     
     <url>
     
+      <loc>https://rekyt.github.io/tags/habitat-saturation/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rekyt.github.io/publication/richness_saturation/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/predicted-presence-probabilities/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/species-richness/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/stacked-species-distribution-models-ssdms/</loc>
+      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/threshold-based-prediction/</loc>
       <lastmod>2020-04-01T18:14:56+02:00</lastmod>
     </url>
     
@@ -36,7 +155,47 @@
     
     <url>
     
+      <loc>https://rekyt.github.io/tags/biodiversity-facet/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/coral-triangle/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/evolutionary-distinctiveness/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/functional-distinctiveness/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rekyt.github.io/publication/gaspar/</loc>
+      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/funrar/</loc>
       <lastmod>2018-08-29T18:14:56+02:00</lastmod>
     </url>
     
@@ -53,6 +212,30 @@
     <url>
     
       <loc>https://rekyt.github.io/project/functional-rarity/</loc>
+      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/functional-diversity/</loc>
+      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/project/</loc>
+      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/tags/rarity/</loc>
       <lastmod>2018-07-01T17:30:39+02:00</lastmod>
     </url>
     
@@ -148,6 +331,14 @@
     
     <url>
     
+      <loc>https://rekyt.github.io/categories/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rekyt.github.io/post/2015-07-23-r-rmarkdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
@@ -156,53 +347,8 @@
     
     <url>
     
-      <loc>https://rekyt.github.io/publication_types/2/</loc>
-      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/</loc>
-      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/predicted-presence-probabilities/</loc>
-      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/project/</loc>
-      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/publication_types/</loc>
-      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
-      <priority>0</priority>
+      <loc>https://rekyt.github.io/tags/plot/</loc>
+      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     </url>
     
   
@@ -211,7 +357,6 @@
     
       <loc>https://rekyt.github.io/categories/r/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -220,169 +365,6 @@
     
       <loc>https://rekyt.github.io/tags/r-markdown/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/species-richness/</loc>
-      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/stacked-species-distribution-models-ssdms/</loc>
-      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/threshold-based-prediction/</loc>
-      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/biodiversity-facet/</loc>
-      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/biodiversity-facet/</loc>
-      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/complexity/</loc>
-      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/coral-triangle/</loc>
-      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/evolutionary-distinctiveness/</loc>
-      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/functional-distinctiveness/</loc>
-      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/functional-ecology/</loc>
-      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/functional-rarity/</loc>
-      <lastmod>2020-10-08T13:06:56+01:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/functional-diversity/</loc>
-      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/funrar/</loc>
-      <lastmod>2018-08-29T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/habitat-saturation/</loc>
-      <lastmod>2020-04-01T18:14:56+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/hypervolume/</loc>
-      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/plot/</loc>
-      <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/rarity/</loc>
-      <lastmod>2018-07-01T17:30:39+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   
@@ -391,25 +373,6 @@
     
       <loc>https://rekyt.github.io/tags/regression/</loc>
       <lastmod>2015-07-23T21:13:14-05:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/species-clustering/</loc>
-      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    <url>
-    
-      <loc>https://rekyt.github.io/tags/species-uniqueness/</loc>
-      <lastmod>2021-05-21T11:36:21+02:00</lastmod>
-      <priority>0</priority>
     </url>
     
   

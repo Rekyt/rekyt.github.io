@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Matthias Grenié – Computational Ecologist</title>
@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://rekyt.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate><atom:link href="https://rekyt.github.io/talk/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Predicting Species Richness with Unicorns &amp; SDMs or why thresholds should be abandoned?</title>
       <link>https://rekyt.github.io/talk/species-richness-unicorns-bes-macro-2018/</link>

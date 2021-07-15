@@ -1,4 +1,3 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Matthias Grenié – Computational Ecologist on Matthias Grenié – Computational Ecologist</title>
@@ -7,72 +6,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 21 May 2021 11:36:21 +0200</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>The dimensionality and structure of species trait spaces</title>
-      <link>https://rekyt.github.io/publication/trait-spaces-dimensionality/</link>
-      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/trait-spaces-dimensionality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global distribution and conservation status of ecologically rare mammal and bird species</title>
-      <link>https://rekyt.github.io/publication/global_mammals_birds/</link>
-      <pubDate>Thu, 08 Oct 2020 13:06:56 +0100</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/global_mammals_birds/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Is prediction of species richness from stacked species distribution models biased by habitat saturation?</title>
-      <link>https://rekyt.github.io/publication/richness_saturation/</link>
-      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/richness_saturation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional biogeography of dietary strategies in birds</title>
-      <link>https://rekyt.github.io/publication/bird_diet/</link>
-      <pubDate>Sat, 22 Dec 2018 20:52:07 +0100</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/bird_diet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional rarity of coral reef fishes at the global scale: Hotspots and challenges for conservation</title>
-      <link>https://rekyt.github.io/publication/gaspar/</link>
-      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/gaspar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Predicting Species Richness with Unicorns &amp; SDMs or why thresholds should be abandoned?</title>
-      <link>https://rekyt.github.io/talk/species-richness-unicorns-bes-macro-2018/</link>
-      <pubDate>Fri, 13 Jul 2018 00:00:00 +0000</pubDate>
-      
-      <guid>https://rekyt.github.io/talk/species-richness-unicorns-bes-macro-2018/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional Rarity: an additional biodiversity facet</title>
-      <link>https://rekyt.github.io/project/functional-rarity/</link>
+      <title>Projects</title>
+      <link>https://rekyt.github.io/project/</link>
       <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/project/functional-rarity/</guid>
-      <description>&lt;p&gt;Functional rarity is a concept developed by Violle et al. (2017). One aim of my PhD is to develop and test this concept.
-Through the &lt;a href=&#34;http://www.cesab.org/index.php/en/projets-en-cours/projets-2015&#34; target=&#34;_blank&#34;&gt;Functional Rarity in Ecology and Evolution&lt;/a&gt; synthesis group funded by the CESAB, we discuss and test new ideas regarding functional rarity.&lt;/p&gt;
-</description>
+      <guid>https://rekyt.github.io/project/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -86,240 +29,30 @@ Through the &lt;a href=&#34;http://www.cesab.org/index.php/en/projets-en-cours/p
     </item>
     
     <item>
-      <title>Effect of pollination strategy, phylogeny and distribution on pollination niches of Euro‐Mediterranean orchids</title>
-      <link>https://rekyt.github.io/publication/europe_orchids/</link>
-      <pubDate>Tue, 29 May 2018 00:00:00 +0200</pubDate>
+      <title>Posts</title>
+      <link>https://rekyt.github.io/post/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://rekyt.github.io/publication/europe_orchids/</guid>
+      <guid>https://rekyt.github.io/post/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al.</title>
-      <link>https://rekyt.github.io/publication/response_carmona/</link>
-      <pubDate>Tue, 26 Dec 2017 13:06:56 +0100</pubDate>
+      <title>Publications</title>
+      <link>https://rekyt.github.io/publication/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://rekyt.github.io/publication/response_carmona/</guid>
+      <guid>https://rekyt.github.io/publication/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>funrar: An R package to characterize functional rarity</title>
-      <link>https://rekyt.github.io/publication/funrar/</link>
-      <pubDate>Tue, 26 Dec 2017 12:11:41 +0100</pubDate>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>https://rekyt.github.io/talk/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://rekyt.github.io/publication/funrar/</guid>
+      <guid>https://rekyt.github.io/talk/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>ecolottery: Simulating and assessing community assembly with environmental filtering and neutral dynamics in R</title>
-      <link>https://rekyt.github.io/publication/ecolottery/</link>
-      <pubDate>Tue, 17 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/ecolottery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional Rarity of Coral Reef Fishes Across Space</title>
-      <link>https://rekyt.github.io/talk/functional-rarity-ynhm-2017/</link>
-      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rekyt.github.io/talk/functional-rarity-ynhm-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>https://rekyt.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-
-  
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://rekyt.github.io/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>https://rekyt.github.io/post/2015-07-23-r-rmarkdown/</guid>
-      <description>
-
-
-&lt;div id=&#34;r-markdown&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;R Markdown&lt;/h1&gt;
-&lt;p&gt;This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see &lt;a href=&#34;http://rmarkdown.rstudio.com&#34; class=&#34;uri&#34;&gt;http://rmarkdown.rstudio.com&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;You can embed an R code chunk like this:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;summary(cars)
-##      speed           dist       
-##  Min.   : 4.0   Min.   :  2.00  
-##  1st Qu.:12.0   1st Qu.: 26.00  
-##  Median :15.0   Median : 36.00  
-##  Mean   :15.4   Mean   : 42.98  
-##  3rd Qu.:19.0   3rd Qu.: 56.00  
-##  Max.   :25.0   Max.   :120.00
-fit &amp;lt;- lm(dist ~ speed, data = cars)
-fit
-## 
-## Call:
-## lm(formula = dist ~ speed, data = cars)
-## 
-## Coefficients:
-## (Intercept)        speed  
-##     -17.579        3.932&lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-&lt;div id=&#34;including-plots&#34; class=&#34;section level1&#34;&gt;
-&lt;h1&gt;Including Plots&lt;/h1&gt;
-&lt;p&gt;You can also embed plots. See Figure &lt;a href=&#34;#fig:pie&#34;&gt;1&lt;/a&gt; for example:&lt;/p&gt;
-&lt;pre class=&#34;r&#34;&gt;&lt;code&gt;par(mar = c(0, 1, 0, 1))
-pie(
-  c(280, 60, 20),
-  c(&amp;#39;Sky&amp;#39;, &amp;#39;Sunny side of pyramid&amp;#39;, &amp;#39;Shady side of pyramid&amp;#39;),
-  col = c(&amp;#39;#0292D8&amp;#39;, &amp;#39;#F7EA39&amp;#39;, &amp;#39;#C4B632&amp;#39;),
-  init.angle = -50, border = NA
-)&lt;/code&gt;&lt;/pre&gt;
-&lt;div class=&#34;figure&#34;&gt;&lt;span id=&#34;fig:pie&#34;&gt;&lt;/span&gt;
-&lt;img src=&#34;https://rekyt.github.io/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png&#34; alt=&#34;A fancy pie chart.&#34; width=&#34;672&#34; /&gt;
-&lt;p class=&#34;caption&#34;&gt;
-Figure 1: A fancy pie chart.
-&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-</description>
     </item>
     
   </channel>
