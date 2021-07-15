@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Matthias Grenié – Computational Ecologist</title>
@@ -7,68 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
-    <lastBuildDate>Fri, 21 May 2021 11:36:21 +0200</lastBuildDate><atom:link href="https://rekyt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>complexity</title>
-      <link>https://rekyt.github.io/tags/complexity/</link>
-      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/tags/complexity/</guid>
-      <description></description>
-    </item>
+    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://rekyt.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
-      <title>functional ecology</title>
-      <link>https://rekyt.github.io/tags/functional-ecology/</link>
-      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      <title>Content tagged as &#39;Academic&#39;</title>
+      <link>https://rekyt.github.io/tags/academic/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
       
-      <guid>https://rekyt.github.io/tags/functional-ecology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>hypervolume</title>
-      <link>https://rekyt.github.io/tags/hypervolume/</link>
-      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/tags/hypervolume/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>species clustering</title>
-      <link>https://rekyt.github.io/tags/species-clustering/</link>
-      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/tags/species-clustering/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>species uniqueness</title>
-      <link>https://rekyt.github.io/tags/species-uniqueness/</link>
-      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/tags/species-uniqueness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>functional rarity</title>
-      <link>https://rekyt.github.io/tags/functional-rarity/</link>
-      <pubDate>Thu, 08 Oct 2020 13:06:56 +0100</pubDate>
-      
-      <guid>https://rekyt.github.io/tags/functional-rarity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>habitat saturation</title>
-      <link>https://rekyt.github.io/tags/habitat-saturation/</link>
-      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/tags/habitat-saturation/</guid>
-      <description></description>
+      <guid>https://rekyt.github.io/tags/academic/</guid>
+      <description>Here is a list of all the content that has been tagged as academic.</description>
     </item>
     
     <item>
@@ -77,6 +27,15 @@
       <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
       
       <guid>https://rekyt.github.io/tags/predicted-presence-probabilities/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R Markdown</title>
+      <link>https://rekyt.github.io/tags/r-markdown/</link>
+      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/r-markdown/</guid>
       <description></description>
     </item>
     
@@ -108,11 +67,29 @@
     </item>
     
     <item>
-      <title>biodiversity-facet</title>
+      <title>biodiversity facet</title>
       <link>https://rekyt.github.io/tags/biodiversity-facet/</link>
       <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
       <guid>https://rekyt.github.io/tags/biodiversity-facet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>biodiversity-facet</title>
+      <link>https://rekyt.github.io/tags/biodiversity-facet/</link>
+      <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/biodiversity-facet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>complexity</title>
+      <link>https://rekyt.github.io/tags/complexity/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/complexity/</guid>
       <description></description>
     </item>
     
@@ -144,11 +121,20 @@
     </item>
     
     <item>
-      <title>funrar</title>
-      <link>https://rekyt.github.io/tags/funrar/</link>
-      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
+      <title>functional ecology</title>
+      <link>https://rekyt.github.io/tags/functional-ecology/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/funrar/</guid>
+      <guid>https://rekyt.github.io/tags/functional-ecology/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>functional rarity</title>
+      <link>https://rekyt.github.io/tags/functional-rarity/</link>
+      <pubDate>Thu, 08 Oct 2020 13:06:56 +0100</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/functional-rarity/</guid>
       <description></description>
     </item>
     
@@ -162,21 +148,30 @@
     </item>
     
     <item>
-      <title>rarity</title>
-      <link>https://rekyt.github.io/tags/rarity/</link>
-      <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
+      <title>funrar</title>
+      <link>https://rekyt.github.io/tags/funrar/</link>
+      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/rarity/</guid>
+      <guid>https://rekyt.github.io/tags/funrar/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Content tagged as &#39;Academic&#39;</title>
-      <link>https://rekyt.github.io/tags/academic/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0100</pubDate>
+      <title>habitat saturation</title>
+      <link>https://rekyt.github.io/tags/habitat-saturation/</link>
+      <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/academic/</guid>
-      <description>Here is a list of all the content that has been tagged as academic.</description>
+      <guid>https://rekyt.github.io/tags/habitat-saturation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hypervolume</title>
+      <link>https://rekyt.github.io/tags/hypervolume/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/hypervolume/</guid>
+      <description></description>
     </item>
     
     <item>
@@ -189,11 +184,11 @@
     </item>
     
     <item>
-      <title>R Markdown</title>
-      <link>https://rekyt.github.io/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
+      <title>rarity</title>
+      <link>https://rekyt.github.io/tags/rarity/</link>
+      <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/tags/r-markdown/</guid>
+      <guid>https://rekyt.github.io/tags/rarity/</guid>
       <description></description>
     </item>
     
@@ -203,6 +198,24 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>https://rekyt.github.io/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species clustering</title>
+      <link>https://rekyt.github.io/tags/species-clustering/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/species-clustering/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>species uniqueness</title>
+      <link>https://rekyt.github.io/tags/species-uniqueness/</link>
+      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/species-uniqueness/</guid>
       <description></description>
     </item>
     

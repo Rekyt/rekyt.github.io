@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Matthias Grenié – Computational Ecologist</title>
@@ -7,14 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate><atom:link href="https://rekyt.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="https://rekyt.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
     <item>
       <title>Academic</title>
       <link>https://rekyt.github.io/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0200</pubDate>
       
       <guid>https://rekyt.github.io/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release</description>
+      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
+(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
@@ -23,7 +28,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://rekyt.github.io/home/about/</guid>
-      <description>Currently Post-doc at iDiv in Leipzig working with Marten Winter. Interested in Macro-ecology, Functional diversity, Open Science and Reproducible Science.</description>
+      <description>Currently Post-doctoral Researcher at iDiv in Leipzig working with Marten Winter. Interested in Macroecology, Functional diversity , Open and Reproducible Science.</description>
     </item>
     
     <item>
@@ -51,7 +56,7 @@
       
       <guid>https://rekyt.github.io/home/packages/</guid>
       <description>You can find a list of the packages I heavily contributed on my R-universe.
-   package name package status description     ecolottery  an R package to simulate community assembly using coalescent theory   funrar  Compute functional rarity indices (see more at https://rekyt.github.io/funrar/)   rromeo   R client to SHERPA/RoMEO the database on journal archival policies (see more at https://ropensci.github.io/rromeo/)   fundiversity  Fast and modular computation of functional diversity indices   funbiogeo  A package to help functional biogeography analyses   rtaxref  R client to the French Taxonomic Reference (see more at https://rekyt.</description>
+   package name package status description     ecolottery  an R package to simulate community assembly using coalescent theory   funrar  Compute functional rarity indices (see more at https://rekyt.github.io/funrar/)   rromeo  &amp;nbsp;  R client to SHERPA/RoMEO the database on journal archival policies (see more at https://ropensci.github.io/rromeo/)   fundiversity  Fast and modular computation of functional diversity indices   funbiogeo  A package to help functional biogeography analyses   rtaxref  R client to the French Taxonomic Reference (see more at https://rekyt.</description>
     </item>
     
     <item>
@@ -87,8 +92,11 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://rekyt.github.io/home/teaching/</guid>
-      <description>I am a certified Instructor for The Carpentries, focusing on R programming (especially for ecology) and Data Visualization.
-Course name | Level | Description Practical session in Descriptive Statistics with R (UM) | 2nd year Bachelor&amp;rsquo;s students | 25h (2017-2018 and 2018-2019) Practical session in Functional Biogeography with R (UM) | 2nd year Master&amp;rsquo;s students | 4h (2018-2019 and 2019-2020) Guest Lecture on Biodiversity Facets (UL) | 1st year Master&amp;rsquo;s students | 2h (2020-2021) Practical session on Biodiversity Facets with R (UL, material) | 1st year Master&amp;rsquo;s students | 6h (2020-2021) Group project on Biodiversity Facets (UL) | 1st year Master&amp;rsquo;s students | (~6h) (2020-2021)</description>
+      <description>I gave more than 70 hours of courses at the different universities I&amp;rsquo;ve worked in:
+   Course name Level Total time     Practical session in Descriptive Statistics with R (UM) Bachelor&amp;rsquo;s
+(2nd yr) 50h (2017-2018 and 2018-2019)   Practical session in Functional Biogeography with R (UM) Master&amp;rsquo;s
+(2nd yr) 8h (2018-2019 and 2019-2020)   Guest Lecture on Biodiversity Facets (UL) Master&amp;rsquo;s
+(1st year) 2h (2020-2021)   Practical session on Biodiversity Facets with R (UL, material) Master&amp;rsquo;s</description>
     </item>
     
     <item>
