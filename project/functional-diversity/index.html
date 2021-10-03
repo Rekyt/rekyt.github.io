@@ -15,11 +15,14 @@
   
     
   
-  <meta name="description" content="Several studies have proposed to predict Species Richness (SR) by combining the predictions of independent Species Distributions Models (SDMs) (the predict first-assemble later strategy). Alternative methods propose to combine outputs from SDMs differently, by either summing predicted presence probabilities at each location, or summing binary presence predictions after thresholding the probabilities. Species can occupy various proportions of their suitable habitats (i.e, have various levels of habitat saturation), which can cause discrepancy when predicting their presences through SDMs. Furthermore, these discrepancies can be increased when combining the predictions of individual SDMs to predict SR. In this article, we performed simulations of species distributions with varying habitat saturation (i.e., the amount of suitable habitat occupied by a species), and we compared observed richness with that predicted by the alternative approaches. We found that probability-based richness is not biased by the level of habitat saturation, while threshold-based richness over-predicts richness at low habitat saturation and under-predicts it as high habitat saturation. Probability-based richness should thus be used in priority when predicting species richness locally. Nonetheless, threshold-based richness represents species richness constrained by environmental filtering only and thus is a useful indicator of potential species richness when species fully saturate their habitats. Thus the systematic comparison of probability-based and threshold-based richness predictions can reveal the importance of habitat saturation and can thus help identify community assembly mechanisms at play.
-">
+  <meta name="description" content="Functional diversity (also trait diversity) is the diversity of functional characteristic of species.
+The functional framework is useful to go beyond species identities.
+Specifically it is useful to identify specific community assembly mechanisms.
+However, it suffers for its biggest challenge of selecting functional traits and seeing which ones are available.
+Throughout my research project I&rsquo;ve mobilized the functional approach to develop new diversity indices, to understand the relationship between environment and birds&rsquo; diets at global scale, to identify community assembly processes in specific communities.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://rekyt.github.io/publication/richness_saturation/">
+  <link rel="alternate" hreflang="en-us" href="https://rekyt.github.io/project/functional-diversity/">
 
   
 
@@ -93,36 +96,40 @@
   <link rel="icon" type="image/png" href="/img/icon.png">
   <link rel="apple-touch-icon" type="image/png" href="/img/icon-192.png">
 
-  <link rel="canonical" href="https://rekyt.github.io/publication/richness_saturation/">
+  <link rel="canonical" href="https://rekyt.github.io/project/functional-diversity/">
 
   
   
   
   
     
+    
   
-  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:card" content="summary">
   
   <meta property="twitter:site" content="@LeNematode">
   <meta property="twitter:creator" content="@LeNematode">
   
   <meta property="og:site_name" content="Matthias Grenié – Computational Ecologist">
-  <meta property="og:url" content="https://rekyt.github.io/publication/richness_saturation/">
-  <meta property="og:title" content="Is prediction of species richness from stacked species distribution models biased by habitat saturation? | Matthias Grenié – Computational Ecologist">
-  <meta property="og:description" content="Several studies have proposed to predict Species Richness (SR) by combining the predictions of independent Species Distributions Models (SDMs) (the predict first-assemble later strategy). Alternative methods propose to combine outputs from SDMs differently, by either summing predicted presence probabilities at each location, or summing binary presence predictions after thresholding the probabilities. Species can occupy various proportions of their suitable habitats (i.e, have various levels of habitat saturation), which can cause discrepancy when predicting their presences through SDMs. Furthermore, these discrepancies can be increased when combining the predictions of individual SDMs to predict SR. In this article, we performed simulations of species distributions with varying habitat saturation (i.e., the amount of suitable habitat occupied by a species), and we compared observed richness with that predicted by the alternative approaches. We found that probability-based richness is not biased by the level of habitat saturation, while threshold-based richness over-predicts richness at low habitat saturation and under-predicts it as high habitat saturation. Probability-based richness should thus be used in priority when predicting species richness locally. Nonetheless, threshold-based richness represents species richness constrained by environmental filtering only and thus is a useful indicator of potential species richness when species fully saturate their habitats. Thus the systematic comparison of probability-based and threshold-based richness predictions can reveal the importance of habitat saturation and can thus help identify community assembly mechanisms at play.
-"><meta property="og:image" content="https://rekyt.github.io/img/simulation_routine.png">
+  <meta property="og:url" content="https://rekyt.github.io/project/functional-diversity/">
+  <meta property="og:title" content="Functional Diversity | Matthias Grenié – Computational Ecologist">
+  <meta property="og:description" content="Functional diversity (also trait diversity) is the diversity of functional characteristic of species.
+The functional framework is useful to go beyond species identities.
+Specifically it is useful to identify specific community assembly mechanisms.
+However, it suffers for its biggest challenge of selecting functional traits and seeing which ones are available.
+Throughout my research project I&rsquo;ve mobilized the functional approach to develop new diversity indices, to understand the relationship between environment and birds&rsquo; diets at global scale, to identify community assembly processes in specific communities."><meta property="og:image" content="https://rekyt.github.io/img/portrait.jpg">
   <meta property="og:locale" content="en-us">
   
-  <meta property="article:published_time" content="2020-04-01T18:14:56&#43;02:00">
+  <meta property="article:published_time" content="2021-10-02T18:38:36&#43;02:00">
   
-  <meta property="article:modified_time" content="2020-04-01T18:14:56&#43;02:00">
-  
-
+  <meta property="article:modified_time" content="2021-10-02T18:38:36&#43;02:00">
   
 
   
 
-  <title>Is prediction of species richness from stacked species distribution models biased by habitat saturation? | Matthias Grenié – Computational Ecologist</title>
+  
+
+  <title>Functional Diversity | Matthias Grenié – Computational Ecologist</title>
 
 </head>
 <body id="top" data-spy="scroll" data-target="#TableOfContents" data-offset="71" >
@@ -297,7 +304,8 @@
   </div>
 </nav>
 
-<div class="pub" itemscope itemtype="http://schema.org/CreativeWork">
+
+<article class="article article-project" itemscope itemtype="http://schema.org/Article">
 
   
 
@@ -308,15 +316,6 @@
 
 
 
-
-<div class="article-header">
-  
-  
-  <img src="/img/simulation_routine.png" class="article-banner" itemprop="image" alt="">
-  
-
-  <span class="article-header-caption">Summary figure showing the simulation routine</span>
-</div>
 
 
 
@@ -327,7 +326,7 @@
   
   
 <div class="article-container pt-3">
-  <h1 itemprop="name">Is prediction of species richness from stacked species distribution models biased by habitat saturation?</h1>
+  <h1 itemprop="name">Functional Diversity</h1>
 
   
 
@@ -338,26 +337,16 @@
 
   
   
-  
-  <div>
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name"><strong>Matthias Grenié</strong></span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">Cyrille Violle</span>
-    </span>, 
-    <span itemscope itemprop="author" itemtype="http://schema.org/Person">
-      <span itemprop="name">François Munoz</span>
-    </span>
-    
-  </div>
+  <span itemscope itemprop="author" itemtype="http://schema.org/Person">
+    <meta itemprop="name" content="Matthias Grenié">
+  </span>
   
 
   <span class="article-date">
     
-    <meta content="2020-04-01 18:14:56 &#43;0200 CEST" itemprop="datePublished">
-    <time datetime="2020-04-01 18:14:56 &#43;0200 CEST" itemprop="dateModified">
-      Apr 1, 2020
+    <meta content="2021-10-02 18:38:36 &#43;0200 CEST" itemprop="datePublished">
+    <time datetime="2021-10-02 18:38:36 &#43;0200 CEST" itemprop="dateModified">
+      Oct 2, 2021
     </time>
   </span>
   <span itemscope itemprop="publisher" itemtype="http://schema.org/Person">
@@ -377,35 +366,35 @@
   <ul class="share">
     <li>
       <a class="twitter"
-         href="https://twitter.com/intent/tweet?text=Is%20prediction%20of%20species%20richness%20from%20stacked%20species%20distribution%20models%20biased%20by%20habitat%20saturation%3f&amp;url=https%3a%2f%2frekyt.github.io%2fpublication%2frichness_saturation%2f"
+         href="https://twitter.com/intent/tweet?text=Functional%20Diversity&amp;url=https%3a%2f%2frekyt.github.io%2fproject%2ffunctional-diversity%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-twitter"></i>
       </a>
     </li>
     <li>
       <a class="facebook"
-         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2frekyt.github.io%2fpublication%2frichness_saturation%2f"
+         href="https://www.facebook.com/sharer.php?u=https%3a%2f%2frekyt.github.io%2fproject%2ffunctional-diversity%2f"
          target="_blank" rel="noopener">
         <i class="fab fa-facebook-f"></i>
       </a>
     </li>
     <li>
       <a class="linkedin"
-         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2frekyt.github.io%2fpublication%2frichness_saturation%2f&amp;title=Is%20prediction%20of%20species%20richness%20from%20stacked%20species%20distribution%20models%20biased%20by%20habitat%20saturation%3f"
+         href="https://www.linkedin.com/shareArticle?mini=true&amp;url=https%3a%2f%2frekyt.github.io%2fproject%2ffunctional-diversity%2f&amp;title=Functional%20Diversity"
          target="_blank" rel="noopener">
         <i class="fab fa-linkedin-in"></i>
       </a>
     </li>
     <li>
       <a class="weibo"
-         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2frekyt.github.io%2fpublication%2frichness_saturation%2f&amp;title=Is%20prediction%20of%20species%20richness%20from%20stacked%20species%20distribution%20models%20biased%20by%20habitat%20saturation%3f"
+         href="http://service.weibo.com/share/share.php?url=https%3a%2f%2frekyt.github.io%2fproject%2ffunctional-diversity%2f&amp;title=Functional%20Diversity"
          target="_blank" rel="noopener">
         <i class="fab fa-weibo"></i>
       </a>
     </li>
     <li>
       <a class="email"
-         href="mailto:?subject=Is%20prediction%20of%20species%20richness%20from%20stacked%20species%20distribution%20models%20biased%20by%20habitat%20saturation%3f&amp;body=https%3a%2f%2frekyt.github.io%2fpublication%2frichness_saturation%2f">
+         href="mailto:?subject=Functional%20Diversity&amp;body=https%3a%2f%2frekyt.github.io%2fproject%2ffunctional-diversity%2f">
         <i class="fas fa-envelope"></i>
       </a>
     </li>
@@ -432,9 +421,189 @@
 
 
 
-<div class="btn-links mb-3">
+
   
+</div>
+
+
+
+  <div class="article-container">
+
+    <div class="article-style" itemprop="articleBody">
+      <p>Functional diversity (also trait diversity) is the diversity of functional characteristic of species.</p>
+
+<p>The functional framework is useful to go beyond species identities.</p>
+
+<p>Specifically it is useful to identify specific community assembly mechanisms.</p>
+
+<p>However, it suffers for its biggest challenge of selecting functional traits and seeing which ones are available.</p>
+
+<p>Throughout my research project I&rsquo;ve mobilized the functional approach to develop new diversity indices, to understand the relationship between environment and birds&rsquo; diets at global scale, to identify community assembly processes in specific communities.</p>
+
+    </div>
+
+    
+
+
+
+
+    
+
+
+
+
+
+
+<div class="media author-card" itemscope itemtype="http://schema.org/Person">
   
+  <img class="portrait mr-3" src="/img/portrait.jpg" itemprop="image" alt="Avatar">
+  
+  <div class="media-body">
+    <h5 class="card-title" itemprop="name"><a href="/">Matthias Grenié</a></h5>
+    <h6 class="card-subtitle">Postdoctoral Researcher</h6>
+    
+    <ul class="network-icon" aria-hidden="true">
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+      <li>
+        <a itemprop="sameAs" href="mailto:matthias.grenie@idiv.de" >
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="//twitter.com/LeNematode" >
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://scholar.google.com/citations?user=fZ1_d7QAAAAJ" target="_blank" rel="noopener">
+          <i class="ai ai-google-scholar"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://www.researchgate.net/profile/Matthias_Grenie" target="_blank" rel="noopener">
+          <i class="ai ai-researchgate"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+        
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="//github.com/Rekyt" >
+          <i class="fab fa-github"></i>
+        </a>
+      </li>
+      
+      
+      
+      
+      
+      
+      
+      
+        
+      
+      <li>
+        <a itemprop="sameAs" href="https://orcid.org/0000-0002-4659-7522" target="_blank" rel="noopener">
+          <i class="ai ai-orcid"></i>
+        </a>
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+
+
+
+    
+    
+
+    
+
+      
+      
+      
+
+      
+      
+      
+        <h2>Publications</h2>
+        
+          
+            <div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/trait-spaces-dimensionality/" itemprop="url">The dimensionality and structure of species trait spaces</a>
+    </h3>
+
+    
+    
+      
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      Trait-based ecology aims to understand the processes that generate the overarching diversity of organismal traits and their influence …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+      <div itemprop="author">
+        David Mouillot, Nicolas Loiseau, <strong>Matthias Grenié</strong>, Adam C. Algar, Michele Allegra, Marc W. Cadotte, Nicolas Casajus, Pierre Denelle, Maya Guéguen, Anthony Maire, Brian Maitner, Brian J. McGill, Matthew McLean, Nicolas Mouquet, François Munoz, Wilfried Thuiller, Sébastien Villéger, Cyrille Violle, Arnaud Auber</div>
+    </div>
+
+    <div class="btn-links">
+      
 
 
 
@@ -447,7 +616,7 @@
   
 
 
-<a class="btn btn-outline-primary my-1 mr-1" href="https://www.sciencedirect.com/science/article/pii/S1470160X19309653" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://onlinelibrary.wiley.com/doi/10.1111/ele.13778" target="_blank" rel="noopener">
   PDF
 </a>
 
@@ -458,7 +627,7 @@
   
     
   
-<a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.5281/zenodo.3552836" target="_blank" rel="noopener">
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/LoiseauN/dimensionality" target="_blank" rel="noopener">
   Code
 </a>
 
@@ -466,7 +635,21 @@
 
 
   
-    
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/functional-diversity/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/functional-rarity/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/macroecology/">
+    Project
+  </a>
   
 
 
@@ -489,9 +672,9 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://doi.org/10.1016/j.ecolind.2019.105970" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/ele.13778" target="_blank" rel="noopener">
     
-    DOI: 10.1016/j.ecolind.2019.105970
+    DOI: 10.1111/ele.13778
   </a>
 
   
@@ -505,112 +688,234 @@
   
     
   
-  <a class="btn btn-outline-primary my-1 mr-1" href="https://github.com/Rekyt/ssdms_saturation_richness/" target="_blank" rel="noopener">
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/LoiseauN/dimensionality" target="_blank" rel="noopener">
     
     GitHub
   </a>
 
 
-</div>
-
-
-  
-</div>
-
-
-
-  <div class="article-container">
-
-    
-    <h3>Abstract</h3>
-    <p class="pub-abstract" itemprop="text">Several studies have proposed to predict Species Richness (SR) by combining the predictions of independent Species Distributions Models (SDMs) (the predict first-assemble later strategy). Alternative methods propose to combine outputs from SDMs differently, by either summing predicted presence probabilities at each location, or summing binary presence predictions after thresholding the probabilities. Species can occupy various proportions of their suitable habitats (i.e, have various levels of habitat saturation), which can cause discrepancy when predicting their presences through SDMs. Furthermore, these discrepancies can be increased when combining the predictions of individual SDMs to predict SR. In this article, we performed simulations of species distributions with varying habitat saturation (i.e., the amount of suitable habitat occupied by a species), and we compared observed richness with that predicted by the alternative approaches. We found that probability-based richness is not biased by the level of habitat saturation, while threshold-based richness over-predicts richness at low habitat saturation and under-predicts it as high habitat saturation. Probability-based richness should thus be used in priority when predicting species richness locally. Nonetheless, threshold-based richness represents species richness constrained by environmental filtering only and thus is a useful indicator of potential species richness when species fully saturate their habitats. Thus the systematic comparison of probability-based and threshold-based richness predictions can reveal the importance of habitat saturation and can thus help identify community assembly mechanisms at play.</p>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Type</div>
-          <div class="col-12 col-md-9">
-            
-            <a href="/publication/#2">
-              Journal article
-            </a>
-            
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
     </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Publication</div>
-          <div class="col-12 col-md-9">Ecological Indicators</div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-md-none space-below"></div>
-    
-
-    <div class="row">
-      <div class="col-md-1"></div>
-      <div class="col-md-10">
-        <div class="row">
-          <div class="col-12 col-md-3 pub-row-heading">Date</div>
-          <div class="col-12 col-md-9" itemprop="datePublished">
-            April, 2020
-          </div>
-        </div>
-      </div>
-      <div class="col-md-1"></div>
-    </div>
-    <div class="d-sm-none space-below"></div>
-
-    <div class="space-below"></div>
-
-    <div class="article-style"></div>
-
-    
-
-
-<div class="article-tags">
-  
-  <a class="badge badge-light" href="/tags/habitat-saturation/">habitat saturation</a>
-  
-  <a class="badge badge-light" href="/tags/species-richness/">Species Richness</a>
-  
-  <a class="badge badge-light" href="/tags/stacked-species-distribution-models-ssdms/">Stacked species distribution models (SSDMs)</a>
-  
-  <a class="badge badge-light" href="/tags/predicted-presence-probabilities/">Predicted presence probabilities</a>
-  
-  <a class="badge badge-light" href="/tags/threshold-based-prediction/">Threshold-based prediction</a>
-  
-</div>
-
-
-
-    
-
-
-
-  
-
-
-
-
-
-
 
   </div>
+  <div class="ml-3">
+    
+    
+  </div>
 </div>
+
+          
+        
+          
+            <div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/global_mammals_birds/" itemprop="url">Global distribution and conservation status of ecologically rare mammal and bird species</a>
+    </h3>
+
+    
+    
+      
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      Identifying species that are both geographically restricted and functionally distinct, i.e. supporting rare traits and functions, is of …
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+      <div itemprop="author">
+        Nicolas Loiseau, Nicolas Mouquet, Nicolas Casajus, <strong>Matthias Grenié</strong>, Maya Guéguen, Brian Maitner, David Mouillot, Annette Ostling, Julien Renaud, Caroline M. Tucker, Laure Velez, Wilfried Thuiller, Cyrille Violle</div>
+    </div>
+
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://github.com/FRBCesab/ecorar" target="_blank" rel="noopener">
+  Code
+</a>
+
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/macroecology/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/functional-diversity/">
+    Project
+  </a>
+  
+
+  
+    
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1038/s41467-020-18779-w" target="_blank" rel="noopener">
+    
+    DOI: 10.1038/s41467-020-18779-w
+  </a>
+
+
+    </div>
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+          
+            <div class="media stream-item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+  <div class="media-body">
+
+    <h3 class="article-title mb-0 mt-0" itemprop="name">
+      <a href="/publication/bird_diet/" itemprop="url">Functional biogeography of dietary strategies in birds</a>
+    </h3>
+
+    
+    
+      
+    
+    
+    <div class="article-style" itemprop="articleBody">
+      <p><strong>Aim</strong></p>
+
+<p>Dietary strategies are key to understanding species’ resource use, relationships with environment and biotic interactions. We …</p>
+    </div>
+    
+
+    <div class="stream-meta article-metadata">
+      <div itemprop="author">
+        Jean-Yves Barnagaud, Nathan Mazet, François Munoz, <strong>Matthias Grenié</strong>, Pierre Denelle, Mar Sobral, W. Daniel Kissling, Çağan H. Şekercioğlu, Cyrille Violle</div>
+    </div>
+
+    <div class="btn-links">
+      
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+  
+  
+    
+  
+<a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.5061/dryad.24c3s89" target="_blank" rel="noopener">
+  Dataset
+</a>
+
+
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/functional-diversity/">
+    Project
+  </a>
+  
+
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="/project/macroecology/">
+    Project
+  </a>
+  
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+    
+  
+  
+  
+  
+  
+    
+  
+  <a class="btn btn-outline-primary my-1 mr-1 btn-sm" href="https://doi.org/10.1111/geb.12910" target="_blank" rel="noopener">
+    
+    DOI:10.1111/geb.12910
+  </a>
+
+
+    </div>
+
+  </div>
+  <div class="ml-3">
+    
+    
+  </div>
+</div>
+
+          
+        
+      
+
+      
+      
+      
+    
+
+  </div>
+</article>
 
 
 

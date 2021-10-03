@@ -11,6 +11,65 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Functional Diversity</title>
+      <link>https://rekyt.github.io/project/functional-diversity/</link>
+      <pubDate>Sat, 02 Oct 2021 18:38:36 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/project/functional-diversity/</guid>
+      <description>&lt;p&gt;Functional diversity (also trait diversity) is the diversity of functional characteristic of species.&lt;/p&gt;
+
+&lt;p&gt;The functional framework is useful to go beyond species identities.&lt;/p&gt;
+
+&lt;p&gt;Specifically it is useful to identify specific community assembly mechanisms.&lt;/p&gt;
+
+&lt;p&gt;However, it suffers for its biggest challenge of selecting functional traits and seeing which ones are available.&lt;/p&gt;
+
+&lt;p&gt;Throughout my research project I&amp;rsquo;ve mobilized the functional approach to develop new diversity indices, to understand the relationship between environment and birds&amp;rsquo; diets at global scale, to identify community assembly processes in specific communities.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matching Species Names Across Biodiversity Databases: Sources, tools, pitfalls and best practices for taxonomic harmonization</title>
+      <link>https://rekyt.github.io/publication/tdwg-taxo-harmo/</link>
+      <pubDate>Sat, 02 Oct 2021 18:18:32 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/tdwg-taxo-harmo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Macroecology</title>
+      <link>https://rekyt.github.io/project/macroecology/</link>
+      <pubDate>Sat, 02 Oct 2021 18:02:52 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/project/macroecology/</guid>
+      <description>&lt;p&gt;Macroecology is the ecology of large spatial and/or temporal scale. The study at large ecological scales is a quest for the generality of ecological understanding (McGill 2019). I strongly think that studying broad scale phenomena help transcend the observed variability and contingency at local scale.&lt;/p&gt;
+
+&lt;p&gt;What methodological interest of macroecology is that it sollicits big datasets, which represent unique challenges both conceptually and technically. These big datasets help answer new questions irreducible to individual studies at local scale.&lt;/p&gt;
+
+&lt;p&gt;This use of big datasets need specific tools to manipulate them efficiently, access them seamlessly, and help answer new associated questions.&lt;/p&gt;
+
+&lt;p&gt;I am particularly interested in the challenges offered by macroecology from its search of generality, to the aggregation of data, which cannot be separated for the need of appropriate tools.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Tools for Biodiversity Science</title>
+      <link>https://rekyt.github.io/project/tools-for-biodiversity-science/</link>
+      <pubDate>Sat, 02 Oct 2021 18:02:36 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/project/tools-for-biodiversity-science/</guid>
+      <description>&lt;p&gt;I strongly think that biodiversity science needs robust standardized tools to make it a better science. This passes through formalizing the workflows and developping useful abstracted tools that can be reused across contexts.&lt;/p&gt;
+
+&lt;p&gt;One particular concern I have is that tool developers generally receive less credit than users while they support essential function for science.&lt;/p&gt;
+
+&lt;p&gt;Robust tools are crucial to develop a truly reproducible science.&lt;/p&gt;
+
+&lt;p&gt;This collective endeavor can only take place in a open-source software environment as scientific tools are part of the common goods.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Harmonizing taxon names in biodiversity data: a review of tools, databases, and best practices</title>
       <link>https://rekyt.github.io/publication/taxonomic_harmonization/</link>
       <pubDate>Mon, 06 Sep 2021 10:49:07 +0200</pubDate>
@@ -79,8 +138,11 @@
       <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
       
       <guid>https://rekyt.github.io/project/functional-rarity/</guid>
-      <description>&lt;p&gt;Functional rarity is a concept developed by Violle et al. (2017). One aim of my PhD is to develop and test this concept.
-Through the &lt;a href=&#34;http://www.cesab.org/index.php/en/projets-en-cours/projets-2015&#34; target=&#34;_blank&#34;&gt;Functional Rarity in Ecology and Evolution&lt;/a&gt; synthesis group funded by the CESAB, we discuss and test new ideas regarding functional rarity.&lt;/p&gt;
+      <description>&lt;p&gt;Functional rarity also called functional originality or trait originality is the characteristic of species (or any other biological unit) that makes it different relative to a well defined set.&lt;/p&gt;
+
+&lt;p&gt;Why are original species interesting? Original species can provide: irreplaceable trait, meaning that original species disappear no other species are going to present the same trait values in the set; original specis may also represent original ecological strategies, if the trait space represents the niche space well then original species show original strategies; finally original species can help uncover specific community assembly processes, or combination of processes because they are not well predicted nor accounted for by current theories.&lt;/p&gt;
+
+&lt;p&gt;Through the &lt;a href=&#34;http://www.cesab.org/index.php/en/projets-en-cours/projets-2015&#34; target=&#34;_blank&#34;&gt;Functional Rarity in Ecology and Evolution&lt;/a&gt; synthesis group funded by the CESAB, we discuss and test new ideas regarding functional rarity.&lt;/p&gt;
 </description>
     </item>
     
@@ -110,174 +172,6 @@ Through the &lt;a href=&#34;http://www.cesab.org/index.php/en/projets-en-cours/p
       
       <guid>https://rekyt.github.io/publication/response_carmona/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>funrar: An R package to characterize functional rarity</title>
-      <link>https://rekyt.github.io/publication/funrar/</link>
-      <pubDate>Tue, 26 Dec 2017 12:11:41 +0100</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/funrar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ecolottery: Simulating and assessing community assembly with environmental filtering and neutral dynamics in R</title>
-      <link>https://rekyt.github.io/publication/ecolottery/</link>
-      <pubDate>Tue, 17 Oct 2017 00:00:00 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/ecolottery/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional Rarity of Coral Reef Fishes Across Space</title>
-      <link>https://rekyt.github.io/talk/functional-rarity-ynhm-2017/</link>
-      <pubDate>Tue, 07 Feb 2017 00:00:00 +0000</pubDate>
-      
-      <guid>https://rekyt.github.io/talk/functional-rarity-ynhm-2017/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Academic: the website designer for Hugo</title>
-      <link>https://rekyt.github.io/post/getting-started/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/post/getting-started/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;&lt;img src=&#34;https://raw.githubusercontent.com/gcushen/hugo-academic/master/academic.png&#34; alt=&#34;Screenshot&#34; /&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;Key features:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Easily manage various content including homepage, blog posts, publications, talks, and projects&lt;/li&gt;
-&lt;li&gt;Extensible via &lt;strong&gt;color themes&lt;/strong&gt; and &lt;strong&gt;widgets/plugins&lt;/strong&gt;&lt;/li&gt;
-&lt;li&gt;Write in &lt;a href=&#34;https://sourcethemes.com/academic/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;Markdown&lt;/a&gt; for easy formatting and code highlighting, with &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34;&gt;LaTeX&lt;/a&gt; for mathematical expressions&lt;/li&gt;
-&lt;li&gt;Social/academic network linking, &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34;&gt;Google Analytics&lt;/a&gt;, and &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34;&gt;Disqus&lt;/a&gt; comments&lt;/li&gt;
-&lt;li&gt;Responsive and mobile friendly&lt;/li&gt;
-&lt;li&gt;Simple and refreshing one page design&lt;/li&gt;
-&lt;li&gt;Multilingual and easy to customize&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&#34;color-themes&#34;&gt;Color Themes&lt;/h2&gt;
-
-&lt;p&gt;Academic is available in different color themes and font themes.&lt;/p&gt;
-
-
-
-&lt;div class=&#34;gallery&#34;&gt;
-
-  
-  
-  
-  
-
-  
-  
-&lt;/div&gt;
-
-&lt;h2 id=&#34;install&#34;&gt;Install&lt;/h2&gt;
-
-&lt;p&gt;You can choose from one of the following four methods to install:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;one-click install using your web browser (recommended)&lt;/li&gt;
-&lt;li&gt;install on your computer using Git with the Command Prompt/Terminal app&lt;/li&gt;
-&lt;li&gt;install on your computer by downloading the ZIP files&lt;/li&gt;
-&lt;li&gt;install on your computer with RStudio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&#34;quick-install-using-your-web-browser&#34;&gt;Quick install using your web browser&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://app.netlify.com/start/deploy?repository=https://github.com/sourcethemes/academic-kickstart&#34; target=&#34;_blank&#34;&gt;Install Academic with Netlify&lt;/a&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Netlify will provide you with a customizable URL to access your new site&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;On GitHub, go to your newly created &lt;code&gt;academic-kickstart&lt;/code&gt; repository and edit &lt;code&gt;config.toml&lt;/code&gt; to personalize your site. Shortly after saving the file, your site will automatically update&lt;/li&gt;
-&lt;li&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-git&#34;&gt;Install with Git&lt;/h3&gt;
-
-&lt;p&gt;Prerequisites:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://git-scm.com/downloads&#34; target=&#34;_blank&#34;&gt;Download and install Git&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://gohugo.io/getting-started/installing/#quick-install&#34; target=&#34;_blank&#34;&gt;Download and install Hugo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart#fork-destination-box&#34; target=&#34;_blank&#34;&gt;Fork&lt;/a&gt; the &lt;em&gt;Academic Kickstart&lt;/em&gt; repository and clone your fork with Git:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;git clone https://github.com/sourcethemes/academic-kickstart.git My_Website
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;em&gt;Note that if you forked Academic Kickstart, the above command should be edited to clone your fork, i.e. replace &lt;code&gt;sourcethemes&lt;/code&gt; with your GitHub username.&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Initialize the theme:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;cd My_Website
-git submodule update --init --recursive
-&lt;/code&gt;&lt;/pre&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-zip&#34;&gt;Install with ZIP&lt;/h3&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/sourcethemes/academic-kickstart/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract &lt;em&gt;Academic Kickstart&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/gcushen/hugo-academic/archive/master.zip&#34; target=&#34;_blank&#34;&gt;Download&lt;/a&gt; and extract the &lt;em&gt;Academic theme&lt;/em&gt; to the &lt;code&gt;themes/academic/&lt;/code&gt; folder from the above step&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h3 id=&#34;install-with-rstudio&#34;&gt;Install with RStudio&lt;/h3&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/install/#install-with-rstudio&#34; target=&#34;_blank&#34;&gt;View the guide to installing Academic with RStudio&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&#34;quick-start&#34;&gt;Quick start&lt;/h2&gt;
-
-&lt;ol&gt;
-&lt;li&gt;&lt;p&gt;If you installed on your computer, view your new website by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code&gt;hugo server
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;Now visit &lt;a href=&#34;http://localhost:1313&#34; target=&#34;_blank&#34;&gt;localhost:1313&lt;/a&gt; and your new Academic powered website will appear. Otherwise, if using Netlify, they will provide you with your URL.&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Read the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start Guide&lt;/a&gt; to learn how to add Markdown content, customize your site, and deploy it. For inspiration, refer to the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/tree/master/exampleSite&#34; target=&#34;_blank&#34;&gt;Markdown content&lt;/a&gt; which powers the &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Demo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-
-&lt;li&gt;&lt;p&gt;Build your site by running the &lt;code&gt;hugo&lt;/code&gt; command. Then &lt;a href=&#34;https://georgecushen.com/create-your-website-with-hugo/&#34; target=&#34;_blank&#34;&gt;host it for free using Github Pages&lt;/a&gt; or Netlify (refer to the first installation method). Alternatively, copy the generated &lt;code&gt;public/&lt;/code&gt; directory (by FTP, Rsync, etc.) to your production web server (such as a university&amp;rsquo;s hosting service).&lt;/p&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&#34;updating&#34;&gt;Updating&lt;/h2&gt;
-
-&lt;p&gt;Feel free to &lt;em&gt;star&lt;/em&gt; the project on &lt;a href=&#34;https://github.com/gcushen/hugo-academic/&#34; target=&#34;_blank&#34;&gt;Github&lt;/a&gt; to help keep track of updates and check out the &lt;a href=&#34;https://sourcethemes.com/academic/updates&#34; target=&#34;_blank&#34;&gt;release notes&lt;/a&gt; prior to updating your site.&lt;/p&gt;
-
-&lt;p&gt;Before updating the framework, it is recommended to make a backup of your entire website directory (or at least your &lt;code&gt;themes/academic&lt;/code&gt; directory) and record your current version number.&lt;/p&gt;
-
-&lt;p&gt;By default, Academic is installed as a Git submodule which can be updated by running the following command:&lt;/p&gt;
-
-&lt;pre&gt;&lt;code class=&#34;language-bash&#34;&gt;git submodule update --remote --merge
-&lt;/code&gt;&lt;/pre&gt;
-
-&lt;p&gt;&lt;a href=&#34;https://sourcethemes.com/academic/docs/update/&#34; target=&#34;_blank&#34;&gt;Check out the update guide&lt;/a&gt; for full instructions and alternative methods.&lt;/p&gt;
-
-&lt;h2 id=&#34;feedback-contributing&#34;&gt;Feedback &amp;amp; Contributing&lt;/h2&gt;
-
-&lt;p&gt;Please use the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/issues&#34; target=&#34;_blank&#34;&gt;issue tracker&lt;/a&gt; to let me know about any bugs or feature requests, or alternatively make a pull request.&lt;/p&gt;
-
-&lt;p&gt;For support, head over to the &lt;a href=&#34;http://discuss.gohugo.io&#34; target=&#34;_blank&#34;&gt;Hugo discussion forum&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
-
-&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/gcushen/hugo-academic/blob/master/LICENSE.md&#34; target=&#34;_blank&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
-</description>
     </item>
     
   </channel>

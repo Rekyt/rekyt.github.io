@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Reproducible Science on Matthias Grenié – Computational Ecologist</title>
+    <link>https://rekyt.github.io/tags/reproducible-science/</link>
+    <description>Recent content in Reproducible Science on Matthias Grenié – Computational Ecologist</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC-BY 3.0, 2018</copyright>
+    <lastBuildDate>Sat, 02 Oct 2021 18:02:36 +0200</lastBuildDate>
+    
+	<atom:link href="https://rekyt.github.io/tags/reproducible-science/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tools for Biodiversity Science</title>
+      <link>https://rekyt.github.io/project/tools-for-biodiversity-science/</link>
+      <pubDate>Sat, 02 Oct 2021 18:02:36 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/project/tools-for-biodiversity-science/</guid>
+      <description>I strongly think that biodiversity science needs robust standardized tools to make it a better science. This passes through formalizing the workflows and developping useful abstracted tools that can be reused across contexts.
+One particular concern I have is that tool developers generally receive less credit than users while they support essential function for science.
+Robust tools are crucial to develop a truly reproducible science.
+This collective endeavor can only take place in a open-source software environment as scientific tools are part of the common goods.</description>
+    </item>
+    
+  </channel>
+</rss>

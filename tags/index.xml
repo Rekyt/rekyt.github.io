@@ -22,6 +22,15 @@
     </item>
     
     <item>
+      <title>Open Science</title>
+      <link>https://rekyt.github.io/tags/open-science/</link>
+      <pubDate>Sat, 02 Oct 2021 18:02:36 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/open-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Predicted presence probabilities</title>
       <link>https://rekyt.github.io/tags/predicted-presence-probabilities/</link>
       <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
@@ -36,6 +45,24 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>https://rekyt.github.io/tags/r-markdown/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R packages</title>
+      <link>https://rekyt.github.io/tags/r-packages/</link>
+      <pubDate>Sat, 02 Oct 2021 18:02:36 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/r-packages/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible Science</title>
+      <link>https://rekyt.github.io/tags/reproducible-science/</link>
+      <pubDate>Sat, 02 Oct 2021 18:02:36 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/tags/reproducible-science/</guid>
       <description></description>
     </item>
     
@@ -126,15 +153,6 @@
       <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
       
       <guid>https://rekyt.github.io/tags/functional-ecology/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>functional rarity</title>
-      <link>https://rekyt.github.io/tags/functional-rarity/</link>
-      <pubDate>Thu, 08 Oct 2020 13:06:56 +0100</pubDate>
-      
-      <guid>https://rekyt.github.io/tags/functional-rarity/</guid>
       <description></description>
     </item>
     
