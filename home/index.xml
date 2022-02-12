@@ -28,7 +28,7 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://rekyt.github.io/home/about/</guid>
-      <description>Currently Post-doctoral Researcher at iDiv in Leipzig working with Marten Winter. Interested in, among others, Macroecology, Functional diversity, Open and Reproducible Science.</description>
+      <description>Currently Post-doctoral Researcher at iDiv in Leipzig working with Marten Winter. Interested in, among others things, Macroecology, Functional diversity, Open and Reproducible Science. These days studying the distribution of exotic plant species.</description>
     </item>
     
     <item>
@@ -56,7 +56,7 @@
       
       <guid>https://rekyt.github.io/home/packages/</guid>
       <description>You can find a list of the packages I heavily contributed on my R-universe.
-   package name package status description     ecolottery  an R package to simulate community assembly using coalescent theory   funrar  Compute functional rarity indices (see more at https://rekyt.github.io/funrar/)   rromeo  &amp;nbsp;  R client to SHERPA/RoMEO the database on journal archival policies (see more at https://ropensci.github.io/rromeo/)   fundiversity  Fast and modular computation of functional diversity indices   funbiogeo  A package to help functional biogeography analyses   rtaxref  R client to the French Taxonomic Reference (see more at https://rekyt.</description>
+   Package Name Package Status Description     ecolottery  an R package to simulate community assembly using coalescent theory   funrar  Compute functional rarity indices (see more at https://rekyt.github.io/funrar/)   rromeo  &amp;nbsp;  R client to SHERPA/RoMEO the database on journal archival policies (see more at https://ropensci.github.io/rromeo/)   fundiversity  Fast and modular computation of functional diversity indices   funbiogeo  A package to help functional biogeography analyses   rtaxref  R client to the French Taxonomic Reference (see more at https://rekyt.</description>
     </item>
     
     <item>
