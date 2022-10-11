@@ -11,6 +11,33 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The functional trait distinctiveness of plant species is scale dependent</title>
+      <link>https://rekyt.github.io/publication/trait-distinctiveness-scale-dependent/</link>
+      <pubDate>Tue, 11 Oct 2022 17:32:26 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/trait-distinctiveness-scale-dependent/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The ecological causes of functional distinctiveness in communities</title>
+      <link>https://rekyt.github.io/publication/ecological-causes-distinctiveness/</link>
+      <pubDate>Tue, 11 Oct 2022 17:32:05 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/ecological-causes-distinctiveness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fundiversity: a modular R package to compute functional diversity indices</title>
+      <link>https://rekyt.github.io/publication/fundiversity/</link>
+      <pubDate>Tue, 11 Oct 2022 17:31:40 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/fundiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Functional Diversity</title>
       <link>https://rekyt.github.io/project/functional-diversity/</link>
       <pubDate>Sat, 02 Oct 2021 18:38:36 +0200</pubDate>
@@ -144,34 +171,6 @@
 
 &lt;p&gt;Through the &lt;a href=&#34;http://www.cesab.org/index.php/en/projets-en-cours/projets-2015&#34; target=&#34;_blank&#34;&gt;Functional Rarity in Ecology and Evolution&lt;/a&gt; synthesis group funded by the CESAB, we discuss and test new ideas regarding functional rarity.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Privacy Policy</title>
-      <link>https://rekyt.github.io/privacy/</link>
-      <pubDate>Thu, 28 Jun 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/privacy/</guid>
-      <description>&lt;p&gt;&amp;hellip;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Effect of pollination strategy, phylogeny and distribution on pollination niches of Euro‐Mediterranean orchids</title>
-      <link>https://rekyt.github.io/publication/europe_orchids/</link>
-      <pubDate>Tue, 29 May 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/europe_orchids/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>A Common Toolbox to Understand, Monitor or Manage Rarity? A Response to Carmona et al.</title>
-      <link>https://rekyt.github.io/publication/response_carmona/</link>
-      <pubDate>Tue, 26 Dec 2017 13:06:56 +0100</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/response_carmona/</guid>
-      <description></description>
     </item>
     
   </channel>
