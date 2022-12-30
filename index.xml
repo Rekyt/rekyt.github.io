@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>fundiversity: a modular R package to compute functional diversity indices</title>
+      <link>https://rekyt.github.io/publication/fundiversity/</link>
+      <pubDate>Thu, 29 Dec 2022 17:31:40 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/fundiversity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The community ecology perspective of omics data</title>
       <link>https://rekyt.github.io/publication/community-ecology-omics/</link>
       <pubDate>Tue, 13 Dec 2022 11:39:32 +0200</pubDate>
@@ -43,15 +52,6 @@
       <pubDate>Tue, 11 Oct 2022 17:32:05 +0200</pubDate>
       
       <guid>https://rekyt.github.io/publication/ecological-causes-distinctiveness/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>fundiversity: a modular R package to compute functional diversity indices</title>
-      <link>https://rekyt.github.io/publication/fundiversity/</link>
-      <pubDate>Tue, 11 Oct 2022 17:31:40 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/fundiversity/</guid>
       <description></description>
     </item>
     
