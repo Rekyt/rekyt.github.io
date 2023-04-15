@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>The big four of plant taxonomy - a comparison of global checklists of vascular plant names</title>
+      <link>https://rekyt.github.io/publication/</link>
+      <pubDate>Sat, 15 Apr 2023 10:00:40 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>fundiversity: a modular R package to compute functional diversity indices</title>
       <link>https://rekyt.github.io/publication/fundiversity/</link>
       <pubDate>Thu, 29 Dec 2022 17:31:40 +0200</pubDate>
@@ -156,15 +165,6 @@
       <pubDate>Sat, 22 Dec 2018 20:52:07 +0100</pubDate>
       
       <guid>https://rekyt.github.io/publication/bird_diet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional rarity of coral reef fishes at the global scale: Hotspots and challenges for conservation</title>
-      <link>https://rekyt.github.io/publication/gaspar/</link>
-      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/gaspar/</guid>
       <description></description>
     </item>
     
