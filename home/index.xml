@@ -56,7 +56,7 @@
       
       <guid>https://rekyt.github.io/home/packages/</guid>
       <description>You can find a list of the packages I heavily contributed on my R-universe.
-   Package Name Package Status Description     ecolottery  an R package to simulate community assembly using coalescent theory   funrar  Compute functional rarity indices (see more at https://rekyt.github.io/funrar/)   rromeo  &amp;nbsp;  R client to SHERPA/RoMEO the database on journal archival policies (see more at https://ropensci.github.io/rromeo/)   fundiversity  Fast and modular computation of functional diversity indices   funbiogeo  A package to help functional biogeography analyses   rtaxref  R client to the French Taxonomic Reference (see more at https://rekyt.</description>
+   Package Name Package Status Description     funrar  Compute functional rarity indices (see more at https://rekyt.github.io/funrar/)   fundiversity  Fast and modular computation of functional diversity indices   funbiogeo  A package to help functional biogeography analyses   ecolottery  an R package to simulate community assembly using coalescent theory   rtaxref  R client to the French Taxonomic Reference (see more at https://rekyt.</description>
     </item>
     
     <item>
@@ -92,16 +92,15 @@
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0200</pubDate>
       
       <guid>https://rekyt.github.io/home/teaching/</guid>
-      <description>I gave more than 80 hours of courses at the different universities I&amp;rsquo;ve worked in:
+      <description>I&amp;rsquo;ve taught about 130 hours of courses at the different universities I&amp;rsquo;ve worked in:
    Course name Level Total time     Descriptive Statistics
 with R (UM) Bachelor&amp;rsquo;s
 (2nd yr) 50h   Functional Biogeography
 with R (UM, material) Master&amp;rsquo;s
-(2nd yr) 8h   Guest Lecture
+(2nd yr) 8h   Practical Session on Functional Ecology (UM) Bachelor&amp;rsquo;s
+(2nd yr) 15h   Guest Lecture
 on Biodiversity Facets (UL) Master&amp;rsquo;s
-(1st yr) 2h   Biodiversity Facets
-with R (UL, material) Master&amp;rsquo;s
-(1st yr) 6h   Group project</description>
+(1st yr) 6h   Biodiversity Facets</description>
     </item>
     
     <item>
