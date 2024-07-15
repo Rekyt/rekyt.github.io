@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Forecasting potential invaders to prevent future biological invasions worldwide</title>
+      <link>https://rekyt.github.io/publication/forecasting-invaders/</link>
+      <pubDate>Mon, 15 Jul 2024 10:00:40 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/forecasting-invaders/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>The ecological causes of functional distinctiveness in communities</title>
       <link>https://rekyt.github.io/publication/ecological-causes-distinctiveness/</link>
       <pubDate>Fri, 21 Apr 2023 17:32:05 +0200</pubDate>
@@ -156,15 +165,6 @@
       <pubDate>Wed, 01 Apr 2020 18:14:56 +0200</pubDate>
       
       <guid>https://rekyt.github.io/publication/richness_saturation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Functional biogeography of dietary strategies in birds</title>
-      <link>https://rekyt.github.io/publication/bird_diet/</link>
-      <pubDate>Sat, 22 Dec 2018 20:52:07 +0100</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/bird_diet/</guid>
       <description></description>
     </item>
     
