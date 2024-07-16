@@ -12,6 +12,14 @@
     
     <url>
     
+      <loc>https://rekyt.github.io/publication/state-world-fungi-plants-2023/</loc>
+      <lastmod>2023-10-10T10:00:40+02:00</lastmod>
+    </url>
+    
+  
+    
+    <url>
+    
       <loc>https://rekyt.github.io/publication/ecological-causes-distinctiveness/</loc>
       <lastmod>2023-04-21T17:32:05+02:00</lastmod>
     </url>
@@ -263,6 +271,15 @@
     
       <loc>https://rekyt.github.io/publication_types/2/</loc>
       <lastmod>2024-07-15T10:00:40+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    <url>
+    
+      <loc>https://rekyt.github.io/publication_types/4/</loc>
+      <lastmod>2023-10-10T10:00:40+02:00</lastmod>
       <priority>0</priority>
     </url>
     

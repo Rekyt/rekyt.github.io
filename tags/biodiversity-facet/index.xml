@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>biodiversity facet on Matthias Grenié – Computational Ecologist</title>
+    <title>biodiversity-facet on Matthias Grenié – Computational Ecologist</title>
     <link>https://rekyt.github.io/tags/biodiversity-facet/</link>
-    <description>Recent content in biodiversity facet on Matthias Grenié – Computational Ecologist</description>
+    <description>Recent content in biodiversity-facet on Matthias Grenié – Computational Ecologist</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
-    <lastBuildDate>Wed, 29 Aug 2018 18:14:56 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 01 Jul 2018 17:30:39 +0200</lastBuildDate>
     
 	<atom:link href="https://rekyt.github.io/tags/biodiversity-facet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Functional rarity of coral reef fishes at the global scale: Hotspots and challenges for conservation</title>
-      <link>https://rekyt.github.io/publication/gaspar/</link>
-      <pubDate>Wed, 29 Aug 2018 18:14:56 +0200</pubDate>
+      <title>Functional Rarity: an additional biodiversity facet</title>
+      <link>https://rekyt.github.io/project/functional-rarity/</link>
+      <pubDate>Sun, 01 Jul 2018 17:30:39 +0200</pubDate>
       
-      <guid>https://rekyt.github.io/publication/gaspar/</guid>
-      <description></description>
+      <guid>https://rekyt.github.io/project/functional-rarity/</guid>
+      <description>Functional rarity also called functional originality or trait originality is the characteristic of species (or any other biological unit) that makes it different relative to a well defined set.
+Why are original species interesting? Original species can provide: irreplaceable trait, meaning that original species disappear no other species are going to present the same trait values in the set; original specis may also represent original ecological strategies, if the trait space represents the niche space well then original species show original strategies; finally original species can help uncover specific community assembly processes, or combination of processes because they are not well predicted nor accounted for by current theories.</description>
     </item>
     
   </channel>
