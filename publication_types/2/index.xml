@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
-    <lastBuildDate>Mon, 15 Jul 2024 10:00:40 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 21 Oct 2024 10:00:40 +0200</lastBuildDate>
     
 	<atom:link href="https://rekyt.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Gaps in global alien plant trait data and how to fill them</title>
+      <link>https://rekyt.github.io/publication/alien-plant-trait-gaps/</link>
+      <pubDate>Mon, 21 Oct 2024 10:00:40 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/alien-plant-trait-gaps/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Forecasting potential invaders to prevent future biological invasions worldwide</title>

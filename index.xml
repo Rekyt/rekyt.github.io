@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Gaps in global alien plant trait data and how to fill them</title>
+      <link>https://rekyt.github.io/publication/alien-plant-trait-gaps/</link>
+      <pubDate>Mon, 21 Oct 2024 10:00:40 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/alien-plant-trait-gaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Forecasting potential invaders to prevent future biological invasions worldwide</title>
       <link>https://rekyt.github.io/publication/forecasting-invaders/</link>
       <pubDate>Mon, 15 Jul 2024 10:00:40 +0200</pubDate>
@@ -156,15 +165,6 @@
       <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
       
       <guid>https://rekyt.github.io/publication/trait-spaces-dimensionality/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Global distribution and conservation status of ecologically rare mammal and bird species</title>
-      <link>https://rekyt.github.io/publication/global_mammals_birds/</link>
-      <pubDate>Thu, 08 Oct 2020 13:06:56 +0100</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/global_mammals_birds/</guid>
       <description></description>
     </item>
     
