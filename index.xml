@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Many non-native plant species are threatened in parts of their native range</title>
+      <link>https://rekyt.github.io/publication/threatened-non-native-plants/</link>
+      <pubDate>Wed, 07 May 2025 15:30:00 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/threatened-non-native-plants/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Gaps in global alien plant trait data and how to fill them</title>
       <link>https://rekyt.github.io/publication/alien-plant-trait-gaps/</link>
       <pubDate>Mon, 21 Oct 2024 10:00:40 +0200</pubDate>
@@ -156,15 +165,6 @@
       <pubDate>Mon, 06 Sep 2021 10:49:07 +0200</pubDate>
       
       <guid>https://rekyt.github.io/publication/taxonomic_harmonization/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>The dimensionality and structure of species trait spaces</title>
-      <link>https://rekyt.github.io/publication/trait-spaces-dimensionality/</link>
-      <pubDate>Fri, 21 May 2021 11:36:21 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/publication/trait-spaces-dimensionality/</guid>
       <description></description>
     </item>
     

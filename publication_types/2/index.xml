@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>CC-BY 3.0, 2018</copyright>
-    <lastBuildDate>Mon, 21 Oct 2024 10:00:40 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 07 May 2025 15:30:00 +0200</lastBuildDate>
     
 	<atom:link href="https://rekyt.github.io/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Many non-native plant species are threatened in parts of their native range</title>
+      <link>https://rekyt.github.io/publication/threatened-non-native-plants/</link>
+      <pubDate>Wed, 07 May 2025 15:30:00 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/threatened-non-native-plants/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Gaps in global alien plant trait data and how to fill them</title>
