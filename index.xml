@@ -11,6 +11,15 @@
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Gaps in global alien plant trait data and how to fill them</title>
+      <link>https://rekyt.github.io/publication/alien-plant-trait-gaps/</link>
+      <pubDate>Tue, 16 Sep 2025 08:30:00 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/alien-plant-trait-gaps/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Advancing Causal Inference in Ecology: pathways for biodiversity change detection and attribution</title>
       <link>https://rekyt.github.io/publication/advancing-causal-inference-ecology/</link>
       <pubDate>Thu, 04 Sep 2025 08:30:00 +0200</pubDate>
@@ -149,22 +158,6 @@
 &lt;p&gt;This use of big datasets need specific tools to manipulate them efficiently, access them seamlessly, and help answer new associated questions.&lt;/p&gt;
 
 &lt;p&gt;I am particularly interested in the challenges offered by macroecology from its search of generality, to the aggregation of data, which cannot be separated for the need of appropriate tools.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Tools for Biodiversity Science</title>
-      <link>https://rekyt.github.io/project/tools-for-biodiversity-science/</link>
-      <pubDate>Sat, 02 Oct 2021 18:02:36 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/project/tools-for-biodiversity-science/</guid>
-      <description>&lt;p&gt;I strongly think that biodiversity science needs robust standardized tools to make it a better science. This passes through formalizing the workflows and developping useful abstracted tools that can be reused across contexts.&lt;/p&gt;
-
-&lt;p&gt;One particular concern I have is that tool developers generally receive less credit than users while they support essential function for science.&lt;/p&gt;
-
-&lt;p&gt;Robust tools are crucial to develop a truly reproducible science.&lt;/p&gt;
-
-&lt;p&gt;This collective endeavor can only take place in a open-source software environment as scientific tools are part of the common goods.&lt;/p&gt;
 </description>
     </item>
     
