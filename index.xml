@@ -20,6 +20,15 @@
     </item>
     
     <item>
+      <title>Global convergence in wood evolution is driven by drought on continents and frost-free temperatures on islands</title>
+      <link>https://rekyt.github.io/publication/derived-woodiness/</link>
+      <pubDate>Tue, 16 Sep 2025 08:30:00 +0200</pubDate>
+      
+      <guid>https://rekyt.github.io/publication/derived-woodiness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Advancing Causal Inference in Ecology: pathways for biodiversity change detection and attribution</title>
       <link>https://rekyt.github.io/publication/advancing-causal-inference-ecology/</link>
       <pubDate>Thu, 04 Sep 2025 08:30:00 +0200</pubDate>
@@ -143,22 +152,6 @@
       
       <guid>https://rekyt.github.io/publication/tdwg-taxo-harmo/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Macroecology</title>
-      <link>https://rekyt.github.io/project/macroecology/</link>
-      <pubDate>Sat, 02 Oct 2021 18:02:52 +0200</pubDate>
-      
-      <guid>https://rekyt.github.io/project/macroecology/</guid>
-      <description>&lt;p&gt;Macroecology is the ecology of large spatial and/or temporal scale. The study at large ecological scales is a quest for the generality of ecological understanding (McGill 2019). I strongly think that studying broad scale phenomena help transcend the observed variability and contingency at local scale.&lt;/p&gt;
-
-&lt;p&gt;What methodological interest of macroecology is that it sollicits big datasets, which represent unique challenges both conceptually and technically. These big datasets help answer new questions irreducible to individual studies at local scale.&lt;/p&gt;
-
-&lt;p&gt;This use of big datasets need specific tools to manipulate them efficiently, access them seamlessly, and help answer new associated questions.&lt;/p&gt;
-
-&lt;p&gt;I am particularly interested in the challenges offered by macroecology from its search of generality, to the aggregation of data, which cannot be separated for the need of appropriate tools.&lt;/p&gt;
-</description>
     </item>
     
   </channel>
